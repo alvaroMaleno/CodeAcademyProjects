@@ -1,2 +1,2 @@
 # CodeAcademyProjects
-Projects Maden at CodeAcademy
+Projects Maden as CodeAcademy's Web Development Learn Path.
